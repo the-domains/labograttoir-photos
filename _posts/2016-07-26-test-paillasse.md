@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: cloud
-datePublished: '2016-07-26T20:11:05.422Z'
-dateModified: '2016-07-26T19:46:13.809Z'
+datePublished: '2016-07-26T21:19:06.446Z'
+dateModified: '2016-07-26T20:52:36.990Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: test-paillasse/index.html
 _type: Article
 
