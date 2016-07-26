@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'furtivement '
-datePublished: '2016-07-26T21:56:05.849Z'
-dateModified: '2016-07-26T21:55:58.236Z'
+datePublished: '2016-07-26T21:56:42.068Z'
+dateModified: '2016-07-26T21:56:39.831Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-26-furtivement.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: furtivement/index.html
 _type: Article
 
