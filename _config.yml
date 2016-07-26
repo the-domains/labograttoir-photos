@@ -1,0 +1,28 @@
+name: labograttoir.photos
+favicon: null
+layout_spectrum: 0.010323582217097282
+typography_spectrum: 0.09752238728106022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2689921965356916
+  lightness: 0.7710905123967677
+  saturation: 0.7842699135653675
+  rhythmicContrast: 0.3474861413706094
+purpose: []
