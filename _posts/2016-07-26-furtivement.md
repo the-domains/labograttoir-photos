@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'furtivement '
-datePublished: '2016-07-26T21:03:22.327Z'
-dateModified: '2016-07-26T21:03:13.037Z'
+datePublished: '2016-07-26T21:05:18.184Z'
+dateModified: '2016-07-26T21:04:59.784Z'
 title: ''
 author: []
 via: {}
@@ -18,4 +18,8 @@ url: furtivement/index.html
 _type: Article
 
 ---
-furtivement
+furtivement 
+
+ce faux filet
+
+entre laids
