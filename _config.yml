@@ -22,7 +22,7 @@ color:
     - '#afb2bb'
     - '#98774a'
   brandStrength: 1
-  lightness: 0.7710905123967677
-  saturation: 0
-  rhythmicContrast: 0.75
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
