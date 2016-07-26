@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'furtivement '
-datePublished: '2016-07-26T21:44:48.673Z'
-dateModified: '2016-07-26T21:44:38.514Z'
+datePublished: '2016-07-26T21:53:43.267Z'
+dateModified: '2016-07-26T21:53:26.572Z'
 title: ''
 author: []
 via: {}
@@ -18,8 +18,9 @@ url: furtivement/index.html
 _type: Article
 
 ---
-trace peinte
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89de2abd-2b73-46cc-943a-c3e43965d221.jpg)
+
+trace peinte
 
 furtivement 
 
