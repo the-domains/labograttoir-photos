@@ -1,7 +1,7 @@
 name: labograttoir.photos
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.26378
+layout_spectrum: 0.11434
+typography_spectrum: 0.82137
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#768eba'
     - '#59607a'
   brandStrength: 1
-  lightness: 1
+  lightness: 0
   saturation: 1
   rhythmicContrast: 1
 purpose: []
