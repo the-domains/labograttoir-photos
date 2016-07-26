@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-26T18:42:18.041Z'
-dateModified: '2016-07-26T18:42:00.455Z'
+datePublished: '2016-07-26T19:44:42.901Z'
+dateModified: '2016-07-26T19:44:20.465Z'
 title: ''
 author:
   - name: ''
@@ -14,11 +14,7 @@ author:
 via: {}
 sourcePath: _posts/2016-07-26-test-paillasse.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: test-paillasse/index.html
 _type: Article
