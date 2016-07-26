@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: cloud
-datePublished: '2016-07-26T19:46:05.344Z'
-dateModified: '2016-07-26T19:45:46.548Z'
+datePublished: '2016-07-26T20:11:05.422Z'
+dateModified: '2016-07-26T19:46:13.809Z'
 title: ''
 author:
   - name: ''
@@ -14,7 +14,11 @@ author:
 via: {}
 sourcePath: _posts/2016-07-26-test-paillasse.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: test-paillasse/index.html
 _type: Article
