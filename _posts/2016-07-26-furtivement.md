@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'furtivement '
-datePublished: '2016-07-27T08:38:53.269Z'
-dateModified: '2016-07-27T08:38:45.399Z'
+datePublished: '2016-07-27T11:39:33.652Z'
+dateModified: '2016-07-27T08:39:20.729Z'
 title: ''
 author: []
 via: {}
