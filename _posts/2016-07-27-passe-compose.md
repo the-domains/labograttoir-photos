@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Passé composé
-datePublished: '2016-07-27T18:17:06.771Z'
-dateModified: '2016-07-27T18:16:31.932Z'
+datePublished: '2016-07-27T18:30:55.492Z'
+dateModified: '2016-07-27T18:29:05.122Z'
 authors: []
 publisher: {}
 title: ''
