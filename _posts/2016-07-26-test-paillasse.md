@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Cloud
-datePublished: '2016-07-27T06:46:46.766Z'
-dateModified: '2016-07-27T06:46:27.812Z'
+datePublished: '2016-07-27T06:48:28.804Z'
+dateModified: '2016-07-27T06:47:37.733Z'
 title: ''
 author:
   - name: ''
@@ -19,9 +19,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: test-paillasse/index.html
-_type: Article
+_type: WebPage
 
 ---
 Cloud
