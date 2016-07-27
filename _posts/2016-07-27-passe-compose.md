@@ -5,17 +5,22 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Passé composé
-datePublished: '2016-07-27T18:31:19.184Z'
-dateModified: '2016-07-27T18:31:12.588Z'
-authors: []
-publisher: {}
+datePublished: '2016-07-27T21:01:26.799Z'
+dateModified: '2016-07-27T21:01:23.686Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-27-passe-compose.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: passe-compose/index.html
 _type: Article
 
 ---
 Passé composé
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1c5ff09-a3c5-47ec-84af-e960dcff8dd1.jpg)
