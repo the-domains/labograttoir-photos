@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Passé composé
-datePublished: '2016-07-27T21:01:26.799Z'
-dateModified: '2016-07-27T21:01:23.686Z'
+datePublished: '2016-07-27T21:02:18.819Z'
+dateModified: '2016-07-27T21:02:04.436Z'
 title: ''
 author: []
 via: {}
