@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'furtivement '
-datePublished: '2016-07-27T11:41:12.003Z'
-dateModified: '2016-07-27T11:41:04.824Z'
+datePublished: '2016-07-27T13:19:57.197Z'
+dateModified: '2016-07-27T13:19:47.605Z'
 title: ''
 author: []
 via: {}
@@ -15,7 +15,7 @@ authors: []
 publisher: {}
 starred: true
 url: furtivement/index.html
-_type: Article
+_type: Blurb
 
 ---
 ZEBRE JAUNE
