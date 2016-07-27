@@ -5,19 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'furtivement '
-datePublished: '2016-07-27T11:40:52.734Z'
-dateModified: '2016-07-27T11:40:09.723Z'
+datePublished: '2016-07-27T11:41:12.003Z'
+dateModified: '2016-07-27T11:41:04.824Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-26-furtivement.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: furtivement/index.html
 _type: Article
 
 ---
+ZEBRE JAUNE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89de2abd-2b73-46cc-943a-c3e43965d221.jpg)
 
 Débat des bas
