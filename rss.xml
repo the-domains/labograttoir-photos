@@ -4,7 +4,7 @@
         <description><![CDATA[labograttoir.photos]]></description>
         <link>https://thegrid.ai/labograttoir-photos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 19:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 20:02:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/labograttoir-photos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BERLIN]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/labograttoir-photos/demangeaisons-de-ces-sons/index.html</link>
             <guid isPermaLink="false">cd31b82b-9951-4486-9756-b7ef97fb2739</guid>
             <pubDate>Wed, 27 Jul 2016 09:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
+            <link>https://app.thegrid.io/sites/ec2bbc46-6f3b-4379-8833-1a66a2cb37e7</link>
+            <guid isPermaLink="false">c38413b5-5dea-4dc4-a9d3-c842078ba96d</guid>
+            <pubDate>Wed, 27 Jul 2016 20:02:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/labograttoir-photos/soir/index.html</link>
             <guid isPermaLink="false">4f27b17f-665c-40f4-baf1-e192a262d831</guid>
             <pubDate>Wed, 27 Jul 2016 17:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vercors]]></title>
-            <description><![CDATA[<article><h1>Vercors</h1><p>Drome de montagne, troll endormi </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73ad576f-2fed-4ce8-9734-5f9f3b8e6b6a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/labograttoir-photos/90155e79-1feb-4978-ad1b-7338da00dc96/index.html</link>
-            <guid isPermaLink="false">90155e79-1feb-4978-ad1b-7338da00dc96</guid>
-            <pubDate>Wed, 27 Jul 2016 07:43:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
