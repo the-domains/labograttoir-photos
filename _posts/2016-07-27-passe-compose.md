@@ -5,18 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Passé composé
-datePublished: '2016-07-27T21:02:18.819Z'
-dateModified: '2016-07-27T21:02:04.436Z'
+datePublished: '2016-07-28T21:53:01.416Z'
+dateModified: '2016-07-28T21:53:01.320Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-27-passe-compose.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: passe-compose/index.html
 _type: Article
