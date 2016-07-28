@@ -5,20 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: remarque
-datePublished: '2016-07-27T09:10:03.662Z'
-dateModified: '2016-07-27T08:55:46.283Z'
+datePublished: '2016-07-28T21:53:01.273Z'
+dateModified: '2016-07-28T21:53:01.175Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-26-demangeaisons-de-ces-sons.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: true
-url: demangeaisons-de-ces-sons/index.html
+url: fleche/index.html
 _type: Article
 
 ---
