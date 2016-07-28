@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: GUIDE
+    id: 4ab4dd73-c2f2-4898-a269-7824011771fe
+    type: content
 favicon: null
 title: HORI_ZONE
 description: OPUS I
