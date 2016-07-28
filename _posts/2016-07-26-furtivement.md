@@ -5,17 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'furtivement '
-datePublished: '2016-07-27T19:54:48.661Z'
-dateModified: '2016-07-27T18:28:51.245Z'
+datePublished: '2016-07-28T21:53:00.699Z'
+dateModified: '2016-07-28T21:53:00.598Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-07-26-furtivement.md
 authors: []
 publisher: {}
 starred: true
-url: furtivement/index.html
-_type: Blurb
+url: chaussee-de-haut/index.html
+_type: MediaObject
 
 ---
 ZEBRE JAUNE
