@@ -31,6 +31,9 @@ navigation:
   - name: BERLIN
     id: b9dcc9a9-308b-4a6e-b12b-2f21b5ac302f
     type: content
+  - name: 'reserve de rêves '
+    id: 9e3b4692-960f-4078-ad9c-99a49fd34374
+    type: content
 favicon: null
 title: HORI_ZONE
 description: OPUS I
