@@ -34,6 +34,9 @@ navigation:
   - name: 'réserve de rêves '
     id: 9e3b4692-960f-4078-ad9c-99a49fd34374
     type: content
+  - name: glissart
+    id: 624c54f8-93ce-433c-a621-06b16860d3bb
+    type: content
 favicon: null
 title: HORI_ZONE
 description: OPUS I
